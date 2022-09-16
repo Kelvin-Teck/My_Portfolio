@@ -7,12 +7,12 @@ import './footer.css'
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className="footer__logo">
-        KELVIN
+      <a href="/" className="footer__logo">
+        ENEH KELVIN CHUKWUEMEKA
       </a>
       <ul className="permalinks">
         <li>
-          <a href="#">Home</a>
+          <a href="/">Home</a>
         </li>
         <li>
           <a href="#about">About</a>
