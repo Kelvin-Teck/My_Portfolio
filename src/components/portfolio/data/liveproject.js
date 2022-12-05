@@ -13,8 +13,8 @@ export const data = [
   {
     id: 2,
     image: fashionStore,
-    title: "Income and Expense Monitor",
-    github: "https://github.com/Kelvin-Teck/income-expense-_monitor_React_App",
-    demo: "https://incoexpensemonitor.netlify.app",
+    title: "Fashion Store",
+    github: "https://github.com/Kelvin-Teck/fashion_ecommerce_js",
+    demo: "https://illustrious-chaja-1d86ed.netlify.app/",
   }
 ];
