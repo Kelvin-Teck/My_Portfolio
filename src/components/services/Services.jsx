@@ -16,15 +16,26 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Building and maintaining websites</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Building web applications</p>
+            </li>
+          </ul>
+        </article>
+         <article className="service">
+          <div className="service__head">
+            <h3>Coding Training</h3>
+          </div>
+          <ul className="service__list">
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Teaching and training upcoming developers</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Help guide people who wants to change career from a non-tech industry to the Tech Industry</p>
             </li>
           </ul>
         </article>
