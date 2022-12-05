@@ -22,6 +22,10 @@ const Services = () => {
               <BiCheck className="service__list-icon" />
               <p>Building web applications</p>
             </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Building API end points with node js</p>
+            </li>
           </ul>
         </article>
          <article className="service">
