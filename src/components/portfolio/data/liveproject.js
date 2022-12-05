@@ -1,4 +1,6 @@
 import IncoExpMon from "../../../assets/income_expense_monitor.PNG";
+import fashionStore from "../../../assets/fashionstore.png";
+
 
 export const data = [
   {
@@ -8,4 +10,11 @@ export const data = [
     github: "https://github.com/Kelvin-Teck/income-expense-_monitor_React_App",
     demo: "https://incoexpensemonitor.netlify.app",
   },
+  {
+    id: 2,
+    image: fashionStore,
+    title: "Income and Expense Monitor",
+    github: "https://github.com/Kelvin-Teck/income-expense-_monitor_React_App",
+    demo: "https://incoexpensemonitor.netlify.app",
+  }
 ];
