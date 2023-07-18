@@ -40,7 +40,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>I am a software developer, specialising in the Web development arena. I have 2 years experience in a few web programming languages and Technologies. I have a passion for the technology space and is always willing to learn new programming languages...</p>
+          <p>I am a software developer, specialising in the Web development arena. I have 2 years experience in a few web programming languages and Technologies. I have a passion for the technology space and is always willing to learn new programming languages and technologies...</p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>

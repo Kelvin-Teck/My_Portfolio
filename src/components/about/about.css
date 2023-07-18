@@ -87,7 +87,7 @@
   }
 }
 
-/* =========== MEDIA QUERY (MEDIUM DEVICES / TABLETS) =========*/
+/* =========== MEDIA QUERY (MEDIUM DEVICES / MOBILE) =========*/
 @media screen and (max-width: 600px) {
   .about__me {
     width: 65%;
