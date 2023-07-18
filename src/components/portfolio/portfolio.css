@@ -2,6 +2,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr);
   gap: 2.5rem;
+  display: flex;
 }
 
 .portfolio__item {
