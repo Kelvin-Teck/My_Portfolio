@@ -36,7 +36,7 @@ const Portfolio = () => {
               </div>
             </article>
           );
-        })}
+        }).sort((a, b) => b - a)}
       </div>
     </section>
   );
