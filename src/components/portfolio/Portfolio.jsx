@@ -9,7 +9,7 @@ const Portfolio = () => {
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">
-        {data.map(({ id, image, title, github, demo }) => {
+        {data..sort( (a, b) => b.id - a.id).map(({ id, image, title, github, demo }) => {
           return (
             <article className="portfolio__item" key={id}>
               <div className="portfolio__item-image">
@@ -36,7 +36,7 @@ const Portfolio = () => {
               </div>
             </article>
           );
-        }).sort((a, b) => b - a)}
+        })}
       </div>
     </section>
   );
